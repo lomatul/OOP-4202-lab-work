@@ -1,0 +1,11 @@
+E:\New folder (2)\laundry management prac\bin\Debug\laundry management prac.exe.config
+E:\New folder (2)\laundry management prac\bin\Debug\laundry management prac.exe
+E:\New folder (2)\laundry management prac\bin\Debug\laundry management prac.pdb
+E:\New folder (2)\laundry management prac\obj\Debug\laundry management prac.csproj.AssemblyReference.cache
+E:\New folder (2)\laundry management prac\obj\Debug\laundry management prac.csproj.SuggestedBindingRedirects.cache
+E:\New folder (2)\laundry management prac\obj\Debug\laundry_management_prac.Form1.resources
+E:\New folder (2)\laundry management prac\obj\Debug\laundry_management_prac.Properties.Resources.resources
+E:\New folder (2)\laundry management prac\obj\Debug\laundry management prac.csproj.GenerateResource.cache
+E:\New folder (2)\laundry management prac\obj\Debug\laundry management prac.csproj.CoreCompileInputs.cache
+E:\New folder (2)\laundry management prac\obj\Debug\laundry management prac.exe
+E:\New folder (2)\laundry management prac\obj\Debug\laundry management prac.pdb
