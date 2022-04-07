@@ -1,0 +1,11 @@
+E:\New folder (2)\Library management\obj\Debug\Library management.csproj.AssemblyReference.cache
+E:\New folder (2)\Library management\obj\Debug\Library management.csproj.SuggestedBindingRedirects.cache
+E:\New folder (2)\Library management\obj\Debug\Library_management.Form1.resources
+E:\New folder (2)\Library management\obj\Debug\Library_management.Properties.Resources.resources
+E:\New folder (2)\Library management\obj\Debug\Library management.csproj.GenerateResource.cache
+E:\New folder (2)\Library management\obj\Debug\Library management.csproj.CoreCompileInputs.cache
+E:\New folder (2)\Library management\bin\Debug\Library management.exe.config
+E:\New folder (2)\Library management\bin\Debug\Library management.exe
+E:\New folder (2)\Library management\bin\Debug\Library management.pdb
+E:\New folder (2)\Library management\obj\Debug\Library management.exe
+E:\New folder (2)\Library management\obj\Debug\Library management.pdb
