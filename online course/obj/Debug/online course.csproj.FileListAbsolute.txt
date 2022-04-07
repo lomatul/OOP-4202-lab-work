@@ -1,0 +1,33 @@
+E:\New folder (2)\online course\bin\Debug\online course.exe.config
+E:\New folder (2)\online course\bin\Debug\online course.exe
+E:\New folder (2)\online course\bin\Debug\online course.pdb
+E:\New folder (2)\online course\obj\Debug\online course.csproj.AssemblyReference.cache
+E:\New folder (2)\online course\obj\Debug\online course.csproj.SuggestedBindingRedirects.cache
+E:\New folder (2)\online course\obj\Debug\online_course.Form1.resources
+E:\New folder (2)\online course\obj\Debug\online_course.Properties.Resources.resources
+E:\New folder (2)\online course\obj\Debug\online course.csproj.GenerateResource.cache
+E:\New folder (2)\online course\obj\Debug\online course.csproj.CoreCompileInputs.cache
+E:\New folder (2)\online course\obj\Debug\online course.exe
+E:\New folder (2)\online course\obj\Debug\online course.pdb
+E:\CLASSWORKS\online_course\online course\bin\Debug\online course.exe.config
+E:\CLASSWORKS\online_course\online course\bin\Debug\online course.exe
+E:\CLASSWORKS\online_course\online course\bin\Debug\online course.pdb
+E:\CLASSWORKS\online_course\online course\obj\Debug\online course.csproj.AssemblyReference.cache
+E:\CLASSWORKS\online_course\online course\obj\Debug\online course.csproj.SuggestedBindingRedirects.cache
+E:\CLASSWORKS\online_course\online course\obj\Debug\online_course.Form1.resources
+E:\CLASSWORKS\online_course\online course\obj\Debug\online_course.Properties.Resources.resources
+E:\CLASSWORKS\online_course\online course\obj\Debug\online course.csproj.GenerateResource.cache
+E:\CLASSWORKS\online_course\online course\obj\Debug\online course.csproj.CoreCompileInputs.cache
+E:\CLASSWORKS\online_course\online course\obj\Debug\online course.exe
+E:\CLASSWORKS\online_course\online course\obj\Debug\online course.pdb
+C:\Users\HP\Downloads\online_course\online course\bin\Debug\online course.exe.config
+C:\Users\HP\Downloads\online_course\online course\bin\Debug\online course.exe
+C:\Users\HP\Downloads\online_course\online course\bin\Debug\online course.pdb
+C:\Users\HP\Downloads\online_course\online course\obj\Debug\online course.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\online_course\online course\obj\Debug\online course.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Downloads\online_course\online course\obj\Debug\online_course.Form1.resources
+C:\Users\HP\Downloads\online_course\online course\obj\Debug\online_course.Properties.Resources.resources
+C:\Users\HP\Downloads\online_course\online course\obj\Debug\online course.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\online_course\online course\obj\Debug\online course.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\online_course\online course\obj\Debug\online course.exe
+C:\Users\HP\Downloads\online_course\online course\obj\Debug\online course.pdb
