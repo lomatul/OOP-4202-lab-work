@@ -1,0 +1,11 @@
+E:\New folder (2)\employeelist\obj\Debug\employeelist.csproj.AssemblyReference.cache
+E:\New folder (2)\employeelist\obj\Debug\employeelist.csproj.SuggestedBindingRedirects.cache
+E:\New folder (2)\employeelist\obj\Debug\employeelist.Properties.Resources.resources
+E:\New folder (2)\employeelist\obj\Debug\employeelist.csproj.GenerateResource.cache
+E:\New folder (2)\employeelist\obj\Debug\employeelist.csproj.CoreCompileInputs.cache
+E:\New folder (2)\employeelist\obj\Debug\employeelist.student.resources
+E:\New folder (2)\employeelist\bin\Debug\employeelist.exe.config
+E:\New folder (2)\employeelist\bin\Debug\employeelist.exe
+E:\New folder (2)\employeelist\bin\Debug\employeelist.pdb
+E:\New folder (2)\employeelist\obj\Debug\employeelist.exe
+E:\New folder (2)\employeelist\obj\Debug\employeelist.pdb
