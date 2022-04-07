@@ -1,0 +1,11 @@
+E:\New folder (2)\tictactoe\bin\Debug\tictactoe.exe.config
+E:\New folder (2)\tictactoe\bin\Debug\tictactoe.exe
+E:\New folder (2)\tictactoe\bin\Debug\tictactoe.pdb
+E:\New folder (2)\tictactoe\obj\Debug\tictactoe.csproj.AssemblyReference.cache
+E:\New folder (2)\tictactoe\obj\Debug\tictactoe.csproj.SuggestedBindingRedirects.cache
+E:\New folder (2)\tictactoe\obj\Debug\tictactoe.Form1.resources
+E:\New folder (2)\tictactoe\obj\Debug\tictactoe.Properties.Resources.resources
+E:\New folder (2)\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.cache
+E:\New folder (2)\tictactoe\obj\Debug\tictactoe.csproj.CoreCompileInputs.cache
+E:\New folder (2)\tictactoe\obj\Debug\tictactoe.exe
+E:\New folder (2)\tictactoe\obj\Debug\tictactoe.pdb
