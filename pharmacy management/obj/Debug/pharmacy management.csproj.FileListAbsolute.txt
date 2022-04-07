@@ -1,0 +1,11 @@
+E:\New folder (2)\pharmacy management\bin\Debug\pharmacy management.exe.config
+E:\New folder (2)\pharmacy management\bin\Debug\pharmacy management.exe
+E:\New folder (2)\pharmacy management\bin\Debug\pharmacy management.pdb
+E:\New folder (2)\pharmacy management\obj\Debug\pharmacy management.csproj.AssemblyReference.cache
+E:\New folder (2)\pharmacy management\obj\Debug\pharmacy management.csproj.SuggestedBindingRedirects.cache
+E:\New folder (2)\pharmacy management\obj\Debug\pharmacy_management.Form1.resources
+E:\New folder (2)\pharmacy management\obj\Debug\pharmacy_management.Properties.Resources.resources
+E:\New folder (2)\pharmacy management\obj\Debug\pharmacy management.csproj.GenerateResource.cache
+E:\New folder (2)\pharmacy management\obj\Debug\pharmacy management.csproj.CoreCompileInputs.cache
+E:\New folder (2)\pharmacy management\obj\Debug\pharmacy management.exe
+E:\New folder (2)\pharmacy management\obj\Debug\pharmacy management.pdb
