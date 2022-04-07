@@ -1,0 +1,11 @@
+E:\New folder (2)\labfinal\bin\Debug\labfinal.exe.config
+E:\New folder (2)\labfinal\bin\Debug\labfinal.exe
+E:\New folder (2)\labfinal\bin\Debug\labfinal.pdb
+E:\New folder (2)\labfinal\obj\Debug\labfinal.csproj.AssemblyReference.cache
+E:\New folder (2)\labfinal\obj\Debug\labfinal.csproj.SuggestedBindingRedirects.cache
+E:\New folder (2)\labfinal\obj\Debug\labfinal.Form1.resources
+E:\New folder (2)\labfinal\obj\Debug\labfinal.Properties.Resources.resources
+E:\New folder (2)\labfinal\obj\Debug\labfinal.csproj.GenerateResource.cache
+E:\New folder (2)\labfinal\obj\Debug\labfinal.csproj.CoreCompileInputs.cache
+E:\New folder (2)\labfinal\obj\Debug\labfinal.exe
+E:\New folder (2)\labfinal\obj\Debug\labfinal.pdb
